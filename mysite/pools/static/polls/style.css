@@ -1,0 +1,16 @@
+/**
+ * @Author: 牛子铜 <niuzitong>
+ * @Date:   2017-05-01T01:06:03+08:00
+ * @Email:  niuzitong@nonobank.com
+ * @Filename: style.css
+ * @Last modified by:   niuzitong
+ * @Last modified time: 2017-05-01T01:22:10+08:00
+ */
+
+li a {
+    color: green;
+}
+
+body {
+background: white url("images/background.jpg") no-repeat right bottom;
+}
